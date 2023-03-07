@@ -1,9 +1,9 @@
-# SC-200: Microsoft Security Operations Analyst
+# SC-300: Microsoft Security Operations Analyst
 
-This project is a work in progress while I study and take notes for the SC-200 Exam.
+This project is a work in progress while I study and take notes for the SC-300 Exam.
 
 # Disclaimer
-Do not rely on these notes to pass the exam. It's advised to use Microsoft's study guide for the exam: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
+Do not rely on these notes to pass the exam. It's advised to use Microsoft's study guide for the exam: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
 
 
 ## Skills measured as of February 1, 2023
