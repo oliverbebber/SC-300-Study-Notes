@@ -1,4 +1,4 @@
-# SC-300: Microsoft Security Operations Analyst
+# SC-300: Microsoft Identity and Access Administrator
 
 This project is a work in progress while I study and take notes for the SC-300 Exam.
 
